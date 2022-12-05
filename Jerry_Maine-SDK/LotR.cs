@@ -17,7 +17,8 @@ namespace Jerry.Maine.SDK
         private readonly IApiKey apiKey;
         private readonly JsonSerializerOptions? options = new JsonSerializerOptions()
         {
-            PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+            PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+            
         };
 
         public LotR(IHttpClientFactory httpClientFactory, IApiKey apiKey)

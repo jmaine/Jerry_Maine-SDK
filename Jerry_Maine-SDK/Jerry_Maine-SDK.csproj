@@ -5,6 +5,7 @@
     <RootNamespace>Jerry.Maine.SDK</RootNamespace>
     <Nullable>enable</Nullable>
     <LangVersion>9.0</LangVersion>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
