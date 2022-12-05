@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jerry_Maine-SDK", "Jerry_Maine-SDK\Jerry_Maine-SDK.csproj", "{5F986592-1FFD-4BA7-8D78-3770480BF9EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{62383CCA-2E73-482A-889B-F65B56AB5866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F986592-1FFD-4BA7-8D78-3770480BF9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F986592-1FFD-4BA7-8D78-3770480BF9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F986592-1FFD-4BA7-8D78-3770480BF9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F986592-1FFD-4BA7-8D78-3770480BF9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62383CCA-2E73-482A-889B-F65B56AB5866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62383CCA-2E73-482A-889B-F65B56AB5866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62383CCA-2E73-482A-889B-F65B56AB5866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62383CCA-2E73-482A-889B-F65B56AB5866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD670E46-8EA3-40B4-B08E-8456C39FDA78}
+	EndGlobalSection
+EndGlobal

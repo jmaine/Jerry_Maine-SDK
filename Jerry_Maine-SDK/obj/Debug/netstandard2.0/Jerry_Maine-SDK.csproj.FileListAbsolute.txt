@@ -1,0 +1,10 @@
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\bin\Debug\netstandard2.0\Jerry_Maine-SDK.deps.json
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\bin\Debug\netstandard2.0\Jerry_Maine-SDK.dll
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\bin\Debug\netstandard2.0\Jerry_Maine-SDK.pdb
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\obj\Debug\netstandard2.0\Jerry_Maine-SDK.csproj.AssemblyReference.cache
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\obj\Debug\netstandard2.0\Jerry_Maine-SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\obj\Debug\netstandard2.0\Jerry_Maine-SDK.AssemblyInfoInputs.cache
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\obj\Debug\netstandard2.0\Jerry_Maine-SDK.AssemblyInfo.cs
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\obj\Debug\netstandard2.0\Jerry_Maine-SDK.csproj.CoreCompileInputs.cache
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\obj\Debug\netstandard2.0\Jerry_Maine-SDK.dll
+C:\source\repos\Jerry_Maine-SDK\Jerry_Maine-SDK\obj\Debug\netstandard2.0\Jerry_Maine-SDK.pdb
